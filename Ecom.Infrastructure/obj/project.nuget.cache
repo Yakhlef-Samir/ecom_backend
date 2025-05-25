@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O/DfPx/SeX0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samir\\RiderProjects\\ecom_backend\\Ecom.Infrastructure\\Ecom.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samir\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

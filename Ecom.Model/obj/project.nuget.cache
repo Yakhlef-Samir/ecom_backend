@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mUCj0rzC334=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samir\\RiderProjects\\ecom_backend\\Ecom.Model\\Ecom.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samir\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
